@@ -11,4 +11,5 @@
 
 
 ## Studio types
-* Indie 
+* Indie
+* AAA - Willing but prefer indie more
